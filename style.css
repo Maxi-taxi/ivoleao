@@ -10,7 +10,7 @@ body {
 }
 
 header {
-    background: rgb(247, 123, 123);
+    background: #f00;
     padding: 20px 0;
 }
 
@@ -99,7 +99,7 @@ nav a:hover {
 
  footer {
     text-align: center;
-    background: rgb(111, 245, 183);
+    background: rgb(35, 35, 35, 09);
     padding: 10px 0;
  }
 
@@ -173,7 +173,6 @@ td, th {
  /* Css da pagina inicial */
 
 .banner {
-  object-fit: cover;
   object-position: 0 60%;
   width: 100%;
   height: 250px;
@@ -210,7 +209,7 @@ td, th {
 
 .mapa {
   padding: 3em 0;
-  background: linear-gradient( rgb(255, 255, 255), rgb(191, 245, 111));
+  background: linear-gradient( #fbfbfb, #f00);
 }
 
 .mapa-conteudo {
@@ -225,7 +224,7 @@ td, th {
 
 .beneficios {
   padding: 3em 0;
-  background: rgb(191, 245, 111);
+  background: rgb(35, 35, 35, 09);
 }
 
 .conteudo-beneficios {
